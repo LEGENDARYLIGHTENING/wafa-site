@@ -1,0 +1,173 @@
+.elementor-2179 .elementor-element.elementor-element-7cc5549:not(.elementor-motion-effects-element-type-background),
+.elementor-2179 .elementor-element.elementor-element-7cc5549>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: var( --e-global-color-a839079);
+}
+
+.elementor-2179 .elementor-element.elementor-element-7cc5549 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-2179 .elementor-element.elementor-element-7cc5549>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863>.elementor-widget-container {
+    padding: 0px 0px 0px 0px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-block-end: calc(6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-block-start: calc(6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-inline: calc(6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-items.elementor-inline-items {
+    margin-inline: calc(-6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    inset-inline-end: calc(-6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-item:not(:last-child):after {
+    content: "";
+    width: 100%;
+    border-color: #FFFFFF;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child):after {
+    border-block-start-style: solid;
+    border-block-start-width: 1px;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:not(:last-child):after {
+    border-inline-start-style: solid;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-inline-items .elementor-icon-list-item:not(:last-child):after {
+    border-inline-start-width: 1px;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 {
+    --e-icon-list-icon-size: 32px;
+    --icon-vertical-offset: -5px;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-icon {
+    padding-inline-end: 10px;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-item>a {
+    font-family: "Manrope", Sans-serif;
+    font-size: 13px;
+}
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-text {
+    color: #FFFFFF;
+    transition: color 0.3s;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d>.elementor-widget-container {
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-color: #FFFFFF;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-block-end: calc(6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-block-start: calc(6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
+    margin-inline: calc(6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-items.elementor-inline-items {
+    margin-inline: calc(-6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
+    inset-inline-end: calc(-6px/2);
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-item:not(:last-child):after {
+    content: "";
+    border-color: #FFFFFF;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child):after {
+    border-block-start-style: solid;
+    border-block-start-width: 1px;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:not(:last-child):after {
+    border-inline-start-style: solid;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-inline-items .elementor-icon-list-item:not(:last-child):after {
+    border-inline-start-width: 1px;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-icon i {
+    transition: color 0.3s;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-icon svg {
+    transition: fill 0.3s;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d {
+    --e-icon-list-icon-size: 6px;
+    --icon-vertical-align: center;
+    --icon-vertical-offset: -5px;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-item>.elementor-icon-list-text,
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-item>a {
+    font-family: "Manrope", Sans-serif;
+    font-size: 13px;
+}
+
+.elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-text {
+    color: #FFFFFF;
+    transition: color 0.3s;
+}
+
+/* Start custom CSS for icon-list, class: .elementor-element-c899863 */
+
+.elementor-2179 .elementor-element.elementor-element-c899863 .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:last-child) {
+    padding-top: calc(6px/2);
+    margin-top: 0px;
+}
+
+#karan li.elementor-icon-list-item:hover {
+    background-color: #F0AB24;
+}
+
+#karan .elementor-2179 .elementor-element.elementor-element-19df71d .elementor-icon-list-items:not(.elementor-inline-items) .elementor-icon-list-item:not(:first-child) {
+    margin-top: 0px;
+    padding-top: calc(6px/2);
+}
+
+/* End custom CSS */
